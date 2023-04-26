@@ -1,0 +1,79 @@
+.p-cors{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    
+    
+}
+.p-cors img{
+    max-width: 40%;
+    max-height: 40%;
+    border: rgba(0, 0, 0, 0.323) solid 1px;
+  
+    
+
+
+   
+}
+
+.p-cors p{
+    font-size: large;
+    font-weight: bold;
+    direction: rtl;
+ 
+    width: 70%;
+    text-align: center;
+    height: auto;
+
+
+}
+@media (max-width: 1000px){
+    .p-cors{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        
+    }
+    .p-cors img{
+        max-width: 40%;
+    
+       
+    }
+    
+    .p-cors p{
+        font-size: large;
+        font-weight: bold;
+        direction: rtl;
+
+        width: auto;
+    
+    
+    }
+
+}
+
+.title-c {
+    text-align: center;
+    text-shadow: red 1px 2px 12px;
+
+}
+
+
+.login {
+    display: flex;
+     width: 100%;
+    justify-content: center;
+    height: 10%;
+
+
+}
+
+.login .btn{
+    width: 100%;
+    background-color: red;
+    font-size: large;
+    border-radius: 32px;
+
+}

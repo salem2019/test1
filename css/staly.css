@@ -1,0 +1,276 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(../img/star5.jpg) ;
+    background-size:contain;
+}
+
+.sc1{
+    background-color: black;
+    
+
+}
+
+.sc1 img{
+    height: 670px;
+    
+}
+.back{
+    zoom: 150%;
+}
+
+.logo{
+    color: rgb(0, 0, 0);
+    
+    font-family:fantasy;
+    font-size: xx-large;
+    margin-right: 50px;
+
+
+}
+
+
+
+.sc2{
+    background: #1f2026;
+    margin-left: 140px;
+    margin-right: 140px;
+    height: auto;
+}
+
+.h-b{
+    margin-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+
+}
+
+.h-b h6{
+    padding-bottom: 15px;
+
+    direction: ltr;
+   color: white;
+   text-decoration: solid;
+   padding-bottom: 30px;
+}
+ 
+
+.icon{
+    color: white;
+    display: inline-block;
+    inline-size: initial;
+    list-style: none;
+    line-height: 80px;
+
+    height: 80px;
+    width: 100%;
+ 
+    
+}
+
+ul{
+
+    margin-right: 20PX;
+}
+
+.icon UL li {
+    
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+    transition: 0.5s;
+}
+
+
+.icon ul li:hover{
+    color: brown;
+    background-color: black;
+    border: 2ps solid rgb(75, 0, 226);
+    border-radius: 40px;
+
+}
+
+
+.grob-btn{
+
+     margin: 50px;
+    margin-right: 0px;
+    margin-left: 40px;
+    
+     
+
+}
+.grob-btn .g{
+    color: aliceblue;
+
+    padding: 30px;
+    list-style: none;
+    margin: 0 8px;
+    text-align: center;
+    display: inline-block;
+    border: #010a8f83 solid 2px;
+   border-radius: 30px ;
+
+}
+ 
+.g a{
+    inline-size: initial;
+    list-style: none;
+
+}
+
+.grob-btn .g button{
+    border: 3px solid seagreen;
+    border-radius: 40px;
+    background-color: rgba(9, 5, 65, 0.645);
+}
+
+.grob-btn .g:hover{
+    transition: 0.5s;
+    background: #748dd185;
+    font-size: x-large;
+}
+
+.grob-btn .g button:hover{
+    background-color: black;
+    color: #f3f0f0ac;
+
+}
+
+.fo img{
+    float: left;
+    width: 600px;
+    height: 600px;
+}
+
+#FORM form{
+    color: rgb(255, 255, 255);
+    margin-top: 150PX;
+    float: left;
+    width: 400PX;
+    
+}
+
+
+.tab {
+    margin-top: 50px;
+    width: 500px;
+    zoom: 150%;
+  
+    float: right;
+    
+
+}
+.tab .progress{
+    margin-bottom: 30px;
+}
+
+
+.socil{
+    float: right;
+    color: aliceblue;
+    text-align: center;
+
+
+}
+.socil h3{
+    padding-right: 30px;
+    color:burlywood;
+} 
+
+
+.socil img{
+    padding: 20px;
+   margin-right: 90px;
+   transition: 1s;
+
+}
+
+.socil img:hover{
+    zoom: 100%;
+   font-size: xx-large;
+   background-color:burlywood;
+   border-radius: 50%;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#carouselExampleFade{
+    margin-top: 50px;
+    width: 700px;
+    height: 450px;
+    float: right;
+    background-color: black;
+    
+}
+
+.grob-card .card{
+    margin-bottom: 30px;
+    transition: 1s;
+}
+
+.grob-card .card:hover{
+    background-color: rgb(74, 64, 64);
+    zoom: 105%;
+    color: aliceblue;
+}
+
+
+
+
+
+footer{
+    height: auto;
+    background: #1f2026;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: rgb(211, 211, 211);
+    text-align: center;
+
+}
+
+
+
+footer h3{
+
+    text-align: center;
+    font-family:fantasy;
+    font-size: xx-large;
+ 
+
+}
+
+
+.carousel-item{
+    height: 480px;
+}
+.carousel-item img{
+    height: 500px;
+}
+
+form h3{
+    color: burlywood;
+
+}

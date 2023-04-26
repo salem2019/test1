@@ -1,0 +1,25 @@
+section{
+   
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 90px;
+
+
+}
+
+body{
+    background: url(../img/star5.jpg) no-repeat;
+    background-size:cover;
+}
+
+.logo{
+    color: rgb(0, 0, 0);
+    
+    font-family:fantasy;
+    font-size: xx-large;
+    margin-right: 50px;
+
+
+}

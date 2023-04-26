@@ -1,0 +1,28 @@
+
+@media (min-width: 1000px){
+    .container h1,#p{
+
+       width: 50%;
+    }
+
+}
+
+.articles{
+    display: flex;
+  flex-wrap: wrap;
+
+    justify-content: center;
+}
+
+.articles img{
+    width: 70%;
+    margin-bottom: 30px;
+}
+.articles p{
+    width: 80%;
+    text-align:right;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+

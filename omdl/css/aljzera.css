@@ -1,0 +1,21 @@
+section{
+    margin-top: 60px;
+   
+    height: 600px;
+}
+ 
+.logo{
+    color: rgb(0, 0, 0);
+    
+    font-family:fantasy;
+    font-size: xx-large;
+    margin-right: 50px;
+
+
+}
+
+body{
+    background: url(../img/star5.jpg) no-repeat;
+    background-size:cover;
+}
+
